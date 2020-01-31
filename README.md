@@ -2,7 +2,7 @@
 
 This brief concept study for using machine learning to assess whether boreholes in Uganda would fail, was presented during for University of Washington's WaterHackWeek in 2019. 
 
-For study see <a src>uganda_boreholes.ipynb</a> in this repo.
+For study see [this jupyter notebook in the repo](https://github.com/vega5b/uganda-water-accessibility/blob/master/uganda_boreholes.ipynb) in this repo.
 
 ### <i>Reference:</i>
 
