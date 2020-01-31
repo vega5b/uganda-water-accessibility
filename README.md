@@ -4,7 +4,7 @@ This brief concept study for using machine learning to assess whether boreholes 
 
 For study see <src>uganda_boreholes.ipynb</src> in this repo.
 
-*Reference:
+### <i>Reference:</i>
 
 Strong, S. (2019). Machine Learning Uganda Borehole Failure, HydroShare, https://doi.org/10.4211/hs.cf0e4c7d6a41457ebcea2ffc397b712d, DOI for this published resource is pending activation.
 
