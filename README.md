@@ -1,6 +1,6 @@
 # Uganda Water Accessibility
 
-This breif intro to water well failure was a proff of concept developed for University of Washington's WaterHackWeek in 2019. 
+This brief concept study for using machine learning to assess whether boreholes in Uganda would fail, was presented during for University of Washington's WaterHackWeek in 2019. 
 
 For study see <src>uganda_boreholes.ipynb</src> in this repo.
 
